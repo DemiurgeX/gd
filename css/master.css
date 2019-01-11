@@ -3,7 +3,8 @@
   background-color: #eeeeee;
   position: relative;
   padding-top: 6.25rem;
-  height: 100vh
+  /*height: 100vh;*/
+  margin-bottom: 10rem;
 }
 
 .main-img {
@@ -42,7 +43,9 @@
   margin-top: 0;
 
 }
-
+.f {
+  font-style: italic;
+}
 .hit-img {
   border-radius: 30rem;
   width: 28rem;

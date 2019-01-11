@@ -147,6 +147,12 @@ padding-bottom: 6.25rem;
   background-image: linear-gradient(to bottom, #5c3b6f, #35234b);
   text-decoration: none;
 }
+
+.btcp {
+  margin-top: 10rem;
+  margin-bottom: 5rem;
+}
+
 /*******************TAG SELECTORS****************************/
 h1 {
   margin: 3.125rem auto 0 auto;
@@ -180,6 +186,9 @@ html {
   background-color: #eeeeee;
 }
 /*********************ID SELECTORS************************/
+#btc {
+  color: limegreen;
+}
 /*#s2 {
   background-image: url(https://media2.giphy.com/media/21LBBnHrYLvv5eYRX5/giphy.gif?cid=3640f6095c37a37e5933776555cef8e7);
 }

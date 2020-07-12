@@ -1,3 +1,2 @@
-# Purpose of this website
+# This is my Temple.
 
-This is my domain.
